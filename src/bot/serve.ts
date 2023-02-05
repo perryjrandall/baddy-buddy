@@ -50,7 +50,7 @@ class Server {
                 this.handleMessage(event as IMessageWithMentions);
                 break;
             default:
-                console.log("Unknown event type:", event.type);
+                console.log("Unknown event type:", event);
         }
     }
 

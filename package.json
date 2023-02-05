@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "commander": "^10.0.0",
-    "facebook-chat-api": "github:AstroCB/facebook-chat-api#lookup-by-mid",
+    "facebook-chat-api": "github:AstroCB/facebook-chat-api#lookup-by-mid"
   }
 }
